@@ -9,7 +9,7 @@ This project is a JavaScript DOM manipulation exercise where I attempted to clon
 ### Installation
 ### Usage
 ### Contributing
-#### Introduction
+### Introduction
 This project is a part of my learning journey in JavaScript and DOM manipulation. The goal was to practice and enhance my skills by recreating the structure and functionality of the Programming Hero website. Please note that this project is for educational purposes only and is not intended for commercial use.
 
 ## Features
@@ -47,3 +47,10 @@ If you would like to contribute to this project, please follow the standard GitH
 # ![420586898_394958002942741_3730743596904817115_n](https://github.com/shahriarhossain7860/programming_hero_clone_with_js_dom_manipulation/assets/85984078/2c1ac965-ee4e-4b22-b58f-3069f6000fa7)
 ## Desktop Version:
 # ![Capture](https://github.com/shahriarhossain7860/programming_hero_clone_with_js_dom_manipulation/assets/85984078/2db4e767-676e-4a05-93a1-ec62e0d5c636)
+# Final Output:
+## Desktop Version:
+# ![Capture](https://github.com/shahriarhossain7860/programming_hero_clone_with_js_dom_manipulation/assets/85984078/7c454719-ffd7-41ae-ab27-242d869847e0)
+## Mobile Version:
+# ![420213623_1073058210597802_1255261497452682000_n](https://github.com/shahriarhossain7860/programming_hero_clone_with_js_dom_manipulation/assets/85984078/dc368b42-314f-4b65-a31e-a886be36f39d)
+
+
