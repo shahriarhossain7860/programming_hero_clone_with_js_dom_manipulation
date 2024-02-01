@@ -36,10 +36,20 @@ openMilestone = function (milestoneElement, id) {
     shownPanel.classList.remove('show')
     currentPanel.classList.toggle('show')
 
-    showMilestone()
+    showMilestone(id)
 }
 loadMilestones()
 showMilestone = function (id) {
     const milestoneImage = document.querySelector('.milestoneImage')
+    const name = document.querySelector('.title')
+    const details = document.querySelector('.details')
+    milestoneImage.style.opacity = '0'
     milestoneImage.src = milestoneData[id].image
+    name.innerText = milestoneData[id].name
+    details.innerText = milestoneData[id].description
+}
+
+const milestoneImage = document.querySelector('.milestoneImage')
+milestoneImage.onload = function () {
+    this.style.opacity = '1'
 }
